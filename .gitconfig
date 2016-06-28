@@ -1,0 +1,11 @@
+[user]
+        name = Matt Fox
+        email = matt.fox@multapplied.net
+[color]
+        branch = auto
+        diff = auto
+        interactive = auto
+        status = auto
+        ui = true
+[core]
+        editor = vim

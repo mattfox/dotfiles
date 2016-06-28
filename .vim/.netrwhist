@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/mfox/bi/bondingadmin/django/baapi/urls'
+let g:netrw_dirhist_2='/home/mfox/bi/bondingadmin/django/banode/templates/details_partials'
+let g:netrw_dirhist_3='/home/mfox/bi/bondingadmin/django/bondingadmin/static/js/bonding/baadmin/other_settings'
+let g:netrw_dirhist_4='/home/mfox/bi/bondingadmin/django'
+let g:netrw_dirhist_5='/home/mfox/.vim'

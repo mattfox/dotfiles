@@ -1,0 +1,9 @@
+# To search Bash history- for example, type 'ss' and press up for last ssh commands.
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+# Make sure left and right continue to work.
+"\e[C": forward-char
+"\e[D": backward-char
+
+set show-all-if-ambiguous on
+set completion-ignore-case on
